@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+body {
+	background-color: #004655;
+	margin-left: 0px;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(../images/bg1.jpg);
+}
+body,td,th {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+a:link {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #009EBF;
+	text-decoration: none;
+}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top"><!-- TemplateBeginEditable name="pic" --><img src="../images/esfahan/large/33pol.JPG" width="800" height="600" /><!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="10">
+      <tr>
+        <td width="100" align="center" valign="middle"><!-- TemplateBeginEditable name="previous" --><a href="#">قبلی</a><!-- TemplateEndEditable --></td>
+        <td align="center" valign="middle" bgcolor="#00262F"><!-- TemplateBeginEditable name="pic_features" -->سی و سه پل - عکاس: کوهکن<!-- TemplateEndEditable --></td>
+        <td width="100" align="center" valign="middle"><!-- TemplateBeginEditable name="next" --><a href="#">بعدی</a><!-- TemplateEndEditable --></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
